@@ -22,3 +22,8 @@
 
 ✈️ **Telegram**: @Buddhweiserr
 
+### CODEWARS
+### 💻 Codewars:
+
+![codewars](https://www.codewars.com/users/Insanov/badges/large)
+
